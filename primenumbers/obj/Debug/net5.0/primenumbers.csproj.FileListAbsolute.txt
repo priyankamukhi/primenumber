@@ -1,0 +1,16 @@
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.exe
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.deps.json
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.runtimeconfig.json
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.runtimeconfig.dev.json
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.dll
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\ref\primenumbers.dll
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\bin\Debug\net5.0\primenumbers.pdb
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.csproj.AssemblyReference.cache
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.AssemblyInfoInputs.cache
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.AssemblyInfo.cs
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.csproj.CoreCompileInputs.cache
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.dll
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\ref\primenumbers.dll
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.pdb
+C:\Users\priyanka.mukhi\projects\primenumbers\primenumbers\obj\Debug\net5.0\primenumbers.genruntimeconfig.cache
